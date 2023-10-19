@@ -2,7 +2,7 @@
 # Adam Ben Hassine
 ### Data Science Enthusiast
 
-Welcome to my GitHub profile! I'm Adam Ben Hassine, a Computer science student enthusiast with a passion for leveraging and building site webs.
+Welcome to my GitHub profile! I'm Adam Ben Hassine, a Computer science student enthusiast with a passion for leveraging and building web sites.
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdamBhs&theme=dark)](https://github.com/AdamBhs)
 
