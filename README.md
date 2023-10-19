@@ -1,6 +1,6 @@
 ![Header](https://github.com/AdamBhs/AdamBhs/blob/main/github-header-image%20(1).png)
 # Adam Ben Hassine
-### Data Science Enthusiast
+### Computer science student
 
 Welcome to my GitHub profile! I'm Adam Ben Hassine, a Computer science student enthusiast with a passion for leveraging and building web sites.
 
