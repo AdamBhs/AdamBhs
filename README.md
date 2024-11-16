@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm Adam Ben Hassine, a Computer science student e
 
 ## GitHub Streaks
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AdamBhs)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AdamBhs&theme=dark)](https://git.io/streak-stats)
 
 ## Contact
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adem.bnhassine@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adem-ben-hassine-8b8644245/)
